@@ -10,7 +10,7 @@
  */
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        //Recursive Approach
+        //Recursive Approach - TC:O(n+m) SC:O(n+m)
         if(list1==null){return list2 ;}
         if(list2==null){return list1 ;}
         if(list1.val<=list2.val){
@@ -22,7 +22,7 @@ class Solution {
             return list2;
         }
         
-        //Iterative Approach
+        //Iterative Approach - TC:O(n+m) SC:O(1)
         // ListNode dummy = new ListNode(-1);
         // ListNode temp=dummy;
         // while(list1!=null && list2!=null){
