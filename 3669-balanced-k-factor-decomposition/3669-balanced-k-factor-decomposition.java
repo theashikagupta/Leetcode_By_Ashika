@@ -2,6 +2,18 @@
 // SC: O(k)
 
 class Solution {
+    public int[] minDifference(int n, int k) {
+        List<Integer> bestResult = new ArrayList<>();
+        findFactors(n, k, new ArrayList<>(), bestResult);
+
+        // Convert list to array
+        int[] result = new int[bestResult.size()];
+        for (int i = 0; i < bestResult.size(); i++) {
+            result[i] = bestResult.get(i);
+        }
+        return result;
+    }
+
     // Backtracking helper to generate factor splits
     private void findFactors(int remaining, int slotsLeft,
                              List<Integer> path, List<Integer> bestResult) {
@@ -28,21 +40,6 @@ class Solution {
         }
     }
 
-    public int[] minDifference(int n, int k) {
-        List<Integer> bestResult = new ArrayList<>();
-        findFactors(n, k, new ArrayList<>(), bestResult);
 
-        // Convert list to array
-        int[] result = new int[bestResult.size()];
-        for (int i = 0; i < bestResult.size(); i++) {
-            result[i] = bestResult.get(i);
-        }
-        return result;
-    }
-
-    public static void main(String[] args) {
-        Solution sol = new Solution();
-        int[] triplet = sol.minDifference(24, 3);
-        System.out.println(Arrays.toString(triplet)); // e.g. [2, 3, 4]
-    }
+    
 }
