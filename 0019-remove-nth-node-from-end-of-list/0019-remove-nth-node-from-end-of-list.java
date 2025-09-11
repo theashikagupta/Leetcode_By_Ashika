@@ -10,7 +10,7 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-      
+        // TC:O(n) SC:O(1)
         ListNode dummy=new ListNode(-1);
         dummy.next=head;
         ListNode slow=dummy;
