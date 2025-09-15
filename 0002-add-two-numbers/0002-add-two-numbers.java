@@ -17,8 +17,6 @@ class Solution {
             return l1;
         }
         
-
-        
         ListNode dummy = new ListNode(0);
         ListNode curr = dummy;
         int carry=0;
@@ -57,6 +55,3 @@ class Solution {
     return prev; 
     }
 }
-
-
-
