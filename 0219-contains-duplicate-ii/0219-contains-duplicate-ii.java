@@ -1,5 +1,6 @@
 class Solution {
     public boolean containsNearbyDuplicate(int[] nums, int k) {
+        
         // HashMap<Integer,Integer> map=new HashMap<>();
         // int idx=0;
         // for(int num:nums){
