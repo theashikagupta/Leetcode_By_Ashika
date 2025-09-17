@@ -12,30 +12,31 @@ class Solution {
     public ListNode reverseList(ListNode head) {
 
         //Recursive approach- TC:O(n)  SC:O(n)
-        // if( head==null || head.next==null){
-        //     return head;
-        // }
-        //     ListNode newHead=reverseList(head.next);
-        //     ListNode headNext=head.next;
-        //     headNext.next=head;
-        //     head.next=null;
-        //     return newHead;
-        
-        //Iterative approach - TC:O(n)  SC:O(1)
+       
         if( head==null || head.next==null){
             return head;
         }
-        ListNode prev=null;
-        ListNode curr=head;
-        ListNode next;
-        while(curr!=null){
-            next=curr.next;
-            curr.next=prev;
-            prev=curr;
-            curr=next;
+            ListNode newHead=reverseList(head.next);
+            head.next.next=head;
+            head.next=null;
+            return newHead;
+        
+        //Iterative approach - TC:O(n)  SC:O(1)
+        // if( head==null || head.next==null){
+        //     return head;
+        // }
+        // ListNode prev=null;
+        // ListNode curr=head;
+        // ListNode next;
+        // while(curr!=null){
+        //     next=curr.next;
+        //     curr.next=prev;
+        //     prev=curr;
+        //     curr=next;
             
-        }
-        head=prev;
-        return head;
+        // }
+        // head=prev;
+        // return head;
     }
 }
+
