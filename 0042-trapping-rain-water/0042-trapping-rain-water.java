@@ -24,6 +24,28 @@ class Solution {
         }
        
         return trappedWater;
+
+       
+        // int n = height.length;
+        // int ans = 0;
+
+        // for (int i = 0; i < n; i++) {
+        //     int left = 0, right = 0;
+
+        //     // find left max for current i
+        //     for (int j = 0; j <= i; j++) {
+        //         left = Math.max(left, height[j]);
+        //     }
+
+        //     // find right max for current i
+        //     for (int k = i; k < n; k++) {
+        //         right = Math.max(right, height[k]);
+        //     }
+
+        //     int minHeight = Math.min(left, right);
+        //     ans += minHeight - height[i];
+        // }
+
+        // return ans;
     }
-    
 }
