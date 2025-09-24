@@ -1,5 +1,5 @@
 class Solution {
-    public int[] dailyTemperatures(int[] temperatures) {
+    public int[] dailyTemperatures(int[] temperatures) { //decreasing monotonic stack
         Stack<Integer> s=new Stack<>();
         int n=temperatures.length;
         int[] day=new int[n];
