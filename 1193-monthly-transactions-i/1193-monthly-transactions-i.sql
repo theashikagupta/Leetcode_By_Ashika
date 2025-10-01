@@ -1,5 +1,5 @@
 # Write your MySQL query statement below
-SELECT DATE_FORMAT(trans_date, '%Y-%m') as month,
+SELECT DATE_FORMAT(trans_date, '%Y-%m-%d') as month,
 country,
 COUNT(id) as trans_count,
 SUM(IF(state='approved',1,0)) as approved_count,
