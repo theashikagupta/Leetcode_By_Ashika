@@ -17,7 +17,7 @@ All contest ratings are automatically updated using a Python script and GitHub A
 |------------------------|------------|--------|--------|
 | Weekly Contest 469     | 2025-09-28 | 1491   |  +23   | 
 | Weekly Contest 467     | 2025-09-14 | 1467   |  -20   | 
-| Biweekly Contest 165   | 2025-08-13 | 1488   |  -16   |
+| Biweekly Contest 165   | 2025-09-13 | 1488   |  -16   |
 | Weekly Contest 466     | 2025-09-07 | 1505   |  -12   |
 | Weekly Contest 465     | 2025-08-31 | 1518   |  +17   |
  
