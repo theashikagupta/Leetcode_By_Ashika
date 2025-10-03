@@ -13,7 +13,7 @@ class Solution {
     // return bottlesDrunk;
 // }
 
-// Method-2
+// Method-2   log(n)
     int ans=numBottles;
     while(numBottles>=numExchange){
         numBottles-=numExchange-1;
@@ -22,8 +22,5 @@ class Solution {
     }
     return ans;
 
-//Method-3
-    // if(numExchange == 1) return Integer.MAX_VALUE; // infinite loop scenario
-    // return numBottles + (numBottles - 1) / (numExchange - 1);
     }
 }
