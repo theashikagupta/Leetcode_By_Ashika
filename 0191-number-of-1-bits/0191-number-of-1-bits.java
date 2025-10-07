@@ -3,7 +3,7 @@ class Solution {
         int count = 0;
         while (n != 0) {
             if ((n & 1) == 1) count++; // check last bit
-            n >>>= 1; // unsigned right shift
+            n = n >> 1; // unsigned right shift
         }
         return count;
     }
