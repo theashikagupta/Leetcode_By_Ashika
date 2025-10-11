@@ -1,3 +1,6 @@
+// Time Complexity: O(n log n)
+// Space Complexity: O(n)
+
 class Solution {
     //Create hashmap 
         HashMap<Integer , Integer> freq=new HashMap<>();
