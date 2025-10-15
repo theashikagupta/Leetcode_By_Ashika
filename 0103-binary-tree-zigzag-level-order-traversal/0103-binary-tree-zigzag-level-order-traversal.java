@@ -21,7 +21,7 @@ class Solution {
         Queue<TreeNode> queue = new LinkedList<>();
         queue.add(root);
 
-        int flag = 0; // 0 -> left to right, 1 -> right to left
+        int flag = 0; 
 
         while (!queue.isEmpty()) {
             int size = queue.size();
