@@ -1,7 +1,7 @@
 class Solution {
     public int maxFrequency(int[] nums, int k, int numOperations) {
         Arrays.sort(nums);
-        HashSet<Integer> set=new HashSet<>;
+        HashSet<Integer> set=new HashSet<>();
         HashMap<Integer,Integer> freq=new HashMap<>();
         int ans=0;
         int maxNum=nums[nums.length-1];
