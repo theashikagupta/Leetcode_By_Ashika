@@ -13,7 +13,7 @@ class Solution {
 
         for (int i=0; i<t.length(); i++) {
             char ch=t.charAt(i);
-            if (!counter.containsKey(ch) || counter.get(ch) == 0) {
+            if (!counter.containsKey(ch) || counter.get(ch)==0) {
                 return false;
             }
             counter.put(ch, counter.get(ch)-1);
