@@ -18,7 +18,7 @@ class Solution {
                 G2^=x;
             }
         }
-        forint x=0;x<n;x++){
+        for (int x=0;x<n;x++){
             if((x & mask)==0){
                 G1^=x;
             }else{
