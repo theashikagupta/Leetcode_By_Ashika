@@ -15,6 +15,7 @@ All contest ratings are automatically updated using a Python script and GitHub A
 
 |    Contest Name        |    Date    | Rating | Change |
 |------------------------|------------|--------|--------|
+| Weekly Contest 474     | 2025-11-02 | 1563   |  +16   |
 | Weekly Contest 472     | 2025-10-19 | 1546   |  -11   |
 | Weekly Contest 470     | 2025-10-05 | 1557   |  +66   |
 | Weekly Contest 469     | 2025-09-28 | 1491   |  +23   | 
