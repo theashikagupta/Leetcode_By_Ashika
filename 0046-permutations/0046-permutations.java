@@ -13,8 +13,9 @@ class Solution {
             return;
         }
         for(int i=0;i<n;i++){
-        //do
+        
             if(!visited[i]){
+            //do
               visited[i]=true;
               temp.add(nums[i]);
               //explore
