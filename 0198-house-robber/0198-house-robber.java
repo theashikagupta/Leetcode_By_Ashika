@@ -11,10 +11,10 @@ class Solution {
     private int solve(int[] nums, int i) {
         if (i >= nums.length) return 0;
 
-        if (dp[i] != -1) return dp[i];
+        if (dp[i]!= -1) return dp[i];
 
-        int take = nums[i] + solve(nums, i + 2);
-        int notTake = solve(nums, i + 1);
+        int take =nums[i] + solve(nums,i+2);
+        int notTake = solve(nums,i+1);
 
         return dp[i] = Math.max(take, notTake);
     }
