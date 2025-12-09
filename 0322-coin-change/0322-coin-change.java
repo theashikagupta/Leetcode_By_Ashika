@@ -1,27 +1,53 @@
 class Solution {
-    public int coinChange(int[] coins, int amount) {
-        int n = coins.length;
-        int[][] dp = new int[n + 1][amount + 1];
-
-        for (int i = 0; i <= n; i++) {
-            dp[i][0] = 0;  // 0 coins to make amount 0
+    public int coinChange(int[] coins, int amount) 
+    {
+       int n=coins.length;
+       int[][] dp=new int[n][amount+1];
+       for(int i=0; i<n; i++){
+            Arrays.fill(dp[i], -1);
         }
+       int ans=solveMemo(n-1,amount,coins,dp);
+       return (ans>=(int)1e9?-1:ans);
+    }
+    // private int solveRec(int i,int amount,int[] coins)
+    // {
+    //     if(amount==0) return 0;
+    //     if(i==0) {
+    //     if(amount%coins[0]==0){
+    //         return amount/coins[0];
+    //     }
+    //     else{
+    //         return (int)1e9;
+    //     }
+    //    }
 
-        for (int j = 1; j <= amount; j++) {
-            dp[0][j] =amount+1; // cannot make positive amount with 0 coins
-        }
+    //    int notTake=solveRec(i-1,amount,coins);
+    //    int take=(int)1e9;
+    //    if(coins[i]<=amount){
+    //     take=1+solveRec(i,amount-coins[i],coins);
+    //    }
+    //    return Math.min(take,notTake);
+    // }
 
-        for (int i = 1; i <= n; i++) {
-            for (int j = 1; j <= amount; j++) {
-                int notTake = dp[i - 1][j];
-                int take = amount+1;
-                if (coins[i - 1] <= j) {
-                    take = 1 + dp[i][j - coins[i - 1]];
-                }
-                dp[i][j] = Math.min(notTake, take);
+
+    private int solveMemo(int i,int amount,int[] coins,int[][] dp){
+        if(amount==0) return 0;
+
+        if(i==0){
+            if(amount%coins[0]==0){
+                return amount/coins[0];
+            }else{
+                return (int)1e9;
             }
         }
 
-        return dp[n][amount] >= amount+1 ? -1 : dp[n][amount];
+        if(dp[i][amount]!=-1) return dp[i][amount];
+
+        int notTake=solveMemo(i-1,amount,coins,dp);
+        int take=(int)1e9;
+        if(coins[i]<=amount){
+           take=1+ solveMemo(i,amount-coins[i],coins,dp);
+        }
+        return dp[i][amount]=Math.min(take,notTake);
     }
 }
