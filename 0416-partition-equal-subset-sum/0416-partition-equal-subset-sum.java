@@ -10,27 +10,38 @@ class Solution {
             return false;
         }
         int target=sum/2;
-        int[][] dp=new int[n+1][target+1];
-        for (int i = 0; i < n; i++) {
-            Arrays.fill(dp[i], -1);
-        }
-        return solveMemo(0,target,nums,dp);
+        // int[][] dp=new int[n+1][target+1];
+        // for (int i = 0; i < n; i++) {
+        //     Arrays.fill(dp[i], -1);
+        // }
+       
+        return solveTab(target,nums);
     }
-    private boolean solveMemo(int idx,int target, int[] nums,int[][] dp){
+    private boolean solveTab(int target, int[] nums){
         int n=nums.length;
-        if(target==0) return true;
-        if(idx>=n) return false;
+        boolean[][] dp=new boolean[n][target+1];
+        for(int i=0;i<n;i++){
+            dp[i][0]=true;
+        }
 
-        if (dp[idx][target] != -1) {
-            return dp[idx][target] == 1;
+        if(nums[0]<=target)
+        {
+            dp[0][nums[0]]=true;
         }
-        boolean notTake=solveMemo(idx+1,target,nums,dp);
-        boolean take=false;
-        if(nums[idx]<=target){
-            take=solveMemo(idx+1,target-nums[idx],nums,dp);
+        
+        for(int i=1;i<n;i++){
+            for(int j=1;j<=target;j++){
+                
+                boolean take=false;
+                int x=nums[i];
+                if(x<=j){
+                   take=dp[i-1][j-x];
+                }
+                boolean notTake=dp[i-1][j];
+                dp[i][j]=take||notTake;
+            }
         }
-        dp[idx][target]=take||notTake?1:0;
-        return take||notTake;
+        return dp[n-1][target];
     
     
         
