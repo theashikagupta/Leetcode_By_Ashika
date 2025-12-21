@@ -13,7 +13,7 @@ class Solution {
         int m=s.length();
         int n=t.length();
         if(j==n) return 1;
-        if(i==m && j<n) return 0;
+        if(i==m ) return 0;
 
         if(dp[i][j] != -1) return dp[i][j];
         if(s.charAt(i)==t.charAt(j)){
