@@ -1,6 +1,6 @@
 class Solution {
     public int findNumberOfLIS(int[] nums) {
-         int n = nums.length;
+        int n = nums.length;
 
         int[] t = new int[n];
         Arrays.fill(t,1);
@@ -23,7 +23,7 @@ class Solution {
             }
         }
 
-         int result = 0;
+        int result=0;
         for(int i = 0; i<n; i++) {
             if(t[i] == maxLIS) {
                 result += count[i];
