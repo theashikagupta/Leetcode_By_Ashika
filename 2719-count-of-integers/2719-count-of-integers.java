@@ -17,12 +17,11 @@ class Solution {
 
         int low = solve(num1, 0, 0, 1, min_sum, max_sum);
 
-        // check num1 itself
         int sum = 0;
         for (char c : num1.toCharArray()) sum += c - '0';
         if (sum >= min_sum && sum <= max_sum) low--;
 
-        return (high - low) % mod;
+        return (((high - low )%mod)+ mod) % mod;
     }
 
     private int solve(String num, int idx, int sum, int tight,
