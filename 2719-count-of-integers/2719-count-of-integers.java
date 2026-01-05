@@ -22,7 +22,7 @@ class Solution {
         for (char c : num1.toCharArray()) sum += c - '0';
         if (sum >= min_sum && sum <= max_sum) low--;
 
-        return (high - low + mod) % mod;
+        return (high - low) % mod;
     }
 
     private int solve(String num, int idx, int sum, int tight,
