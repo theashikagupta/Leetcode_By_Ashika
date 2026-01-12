@@ -1,42 +1,41 @@
 class Solution {
     public int minCost(int n, int[] cuts) {
-        
-        int m = cuts.length;
-        
-        // Create new array with 0 and n
-        int[] arr = new int[m + 2];
-        arr[0] = 0;
-        arr[m + 1] = n;
-        
-        for (int i = 0; i < m; i++) {
-            arr[i + 1] = cuts[i];
+
+        int newcuts[]=new int[cuts.length+2];
+        newcuts[0]=0;
+        newcuts[newcuts.length-1]=n;
+
+        Arrays.sort(cuts);
+
+        for(int i=0;i<cuts.length;i++){
+            newcuts[i+1]=cuts[i];
         }
+
+
+        Integer dp[][]=new Integer[newcuts.length][newcuts.length];
+        return solve(1,cuts.length,newcuts,dp); //newcuts.length -1 bhi kr skte
+
+    
         
-        Arrays.sort(arr);
-        
-        // dp[i][j] = min cost to cut stick between arr[i] and arr[j]
-        int[][] dp = new int[m + 2][m + 2];
-        
-        // length = gap between cuts
-        for (int len = 2; len < m + 2; len++) {
-            for (int i = 0; i + len < m + 2; i++) {
-                int j = i + len;
-                dp[i][j] = Integer.MAX_VALUE;
-                
-                for (int k = i + 1; k < j; k++) {
-                    dp[i][j] = Math.min(
-                        dp[i][j],
-                        dp[i][k] + dp[k][j] + (arr[j] - arr[i])
-                    );
-                }
-                
-                // If no cut was possible
-                if (dp[i][j] == Integer.MAX_VALUE) {
-                    dp[i][j] = 0;
-                }
-            }
+    }
+
+    public int solve(int i,int j,int newcuts[],Integer dp[][]){
+        if(i>j){
+            return 0;
         }
-        
-        return dp[0][m + 1];
+
+        if(dp[i][j]!=null){
+            return dp[i][j];
+        }
+
+        int mini=Integer.MAX_VALUE;
+
+        for(int idx=i;idx<=j;idx++){
+            int cost=newcuts[j+1]-newcuts[i-1] + solve(i,idx-1,newcuts,dp) + solve(idx+1,j,newcuts,dp);
+            mini=Math.min(mini,cost);
+        }
+
+        return dp[i][j]=mini;
+
     }
 }
