@@ -3,25 +3,22 @@ class Solution {
         int V, edge;
         
         V = edges.length+1;
-        edge=edges.length;
-    
-        ArrayList<ArrayList<Integer>> adjList=new ArrayList<>();
-        for(int i=0;i<=V;i++){
-            adjList.add(new ArrayList<>());
-        }
+        int[] outdeg=new int[V+1];
 
-        for(int i=0;i<edge;i++){
+        for(int i=0; i<edges.length; i++){
             int u=edges[i][0];
             int v=edges[i][1];
-            adjList.get(u).add(v);
-            adjList.get(v).add(u);
+
+            outdeg[u]++;
+            outdeg[v]++;
+            
         }
-        
-        for(int i=0;i<V;i++){
-            if(adjList.get(i).size()==V-1){
+        for (int i = 1; i <= V; i++) {
+            if (deg[i] == V - 1) {
                 return i;
             }
         }
+
         return -1;
     }
 }
