@@ -14,7 +14,7 @@ class Solution {
             
         }
         for (int i = 1; i <= V; i++) {
-            if (deg[i] == V - 1) {
+            if (outdeg[i] == V - 1) {
                 return i;
             }
         }
