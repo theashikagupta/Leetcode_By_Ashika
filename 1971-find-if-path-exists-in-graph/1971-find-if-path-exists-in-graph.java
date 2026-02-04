@@ -1,7 +1,7 @@
 class Solution {
     public boolean validPath(int n, int[][] edges, int src, int dest) {
         ArrayList<ArrayList<Integer>> adjList=new ArrayList<>();
-        for(int i=0; i<=n; i++){
+        for(int i=0; i<n; i++){
             adjList.add(new ArrayList<>());
         }
         for(int i=0;i<edges.length;i++){
@@ -10,23 +10,16 @@ class Solution {
             adjList.get(u).add(v);
             adjList.get(v).add(u);
         }
-        Queue<Integer> q=new LinkedList<>();
-        Boolean[] vis=new boolean[n];
-        vis[src]=true;
-        q.offer(src);
-        while(!q.isEmpty()){
-            int curr=q.poll();
-            for(int adj : adjList.get(curr)){
-                if(vis[adj]==false){
-                   vis[adj]=true;
-                   q.offer(adj);
-                }
+        boolean[] vis=new boolean[n];
+        dfs(src,adjList, vis);
+        return vis[dest];
+    }
+    public static boolean dfs(int node , ArrayList<ArrayList<Integer>> adjList, boolean[] vis){
+        vis[node]=true;
+        for(int adj : adjList.get(node)){
+            if(!vis[adj]){
+                dfs(adj, adjList, vis);
             }
-            
         }
-        if(vis[dest]==true){
-            return true;
-        }
-        return false;
     }
 }
