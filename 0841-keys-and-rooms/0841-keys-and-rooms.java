@@ -14,7 +14,8 @@ class Solution {
             }
             
         }
-        for(int i=0;i<n;i++){
+        int n=rooms.size();
+        for(int i=0; i<n; i++){
            if(!vis[i])  return false;
         }
         return true;
