@@ -1,36 +1,58 @@
 class Solution {
-    boolean[][] vis;
-    int[][][] dp;
-    boolean check(List<List<Integer>> grid, int row, int col, int h) {
-        int m = grid.size(); int n = grid.get(0).size();
-        if (row >= m || col >= n || row<0 || col<0 || h<=0 || vis[row][col]) return false;
-        if (row==m-1 && col==n-1) {
-            return h>grid.get(row).get(col);
-        }
-        if (dp[row][col][h]!=-1) return dp[row][col][h]==1;
-        vis[row][col] = true;
-        boolean up = check(grid,row-1,col,h-grid.get(row).get(col));
-        boolean down = check(grid,row+1,col,h-grid.get(row).get(col));
-        boolean left = check(grid,row,col-1,h-grid.get(row).get(col));
-        boolean right = check(grid,row,col+1,h-grid.get(row).get(col));
-        vis[row][col] = false;
-        boolean result = up || down || left || right;
-        if(result){
-            dp[row][col][h]=1;
-        }
-        else dp[row][col][h]=0;
-        return result;
-    }
+    static int dir[][]={{-1,0},{1,0},{0,-1},{0,1}};
+    
     public boolean findSafeWalk(List<List<Integer>> grid, int health) {
-        int m = grid.size();
-        int n = grid.get(0).size();
-        dp = new int[m][n][health+1];
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                Arrays.fill(dp[i][j],-1);
+        int m=grid.size();
+        int n=grid.get(0).size();
+        int visited[][]=new int [m][n];
+        if(bfs(0,0,visited,grid,health)){
+            return true;
+        }
+        return false;
+    }
+
+    public boolean bfs(int row,int col,int visited[][],List<List<Integer>> grid , int health){
+        PriorityQueue<int []> q=new PriorityQueue<>((a,b)->(b[2]-a[2]));
+
+        if(grid.get(row).get(col)==1){
+            health=health-1;
+            if(health<=0){
+                return false;
             }
         }
-        vis = new boolean[m][n];
-        return check(grid, 0, 0, health);
+
+        q.offer(new int []{0,0,health});
+        visited[row][col]=1;
+
+        while(!q.isEmpty()){
+            int curr[]=q.poll();
+            int r=curr[0];
+            int c=curr[1];
+            int h=curr[2];
+
+            if(r==grid.size()-1 && c==grid.get(0).size()-1 && h>0){
+                return true;
+            }
+
+    
+            for(int i=0;i<4;i++){
+                int dr=r + dir[i][0];
+                int dc=c + dir[i][1];
+
+
+                if(dr>=0 && dr<grid.size() && dc>=0 && dc<grid.get(0).size() && visited[dr][dc]==0 && h>0){
+                    int mh=h;
+                    if(grid.get(dr).get(dc)==1){
+                        mh=h-1;
+                    }
+                    if(mh>0){
+                        visited[dr][dc]=1;
+                        q.offer(new int []{dr,dc,mh});
+                    }
+                }
+            }
+        }
+
+        return false;
     }
 }
