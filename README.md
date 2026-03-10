@@ -51,16 +51,35 @@ username = "AshikaGupta_01"
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 <!---LeetCode Topics End-->
