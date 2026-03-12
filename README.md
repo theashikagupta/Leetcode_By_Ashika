@@ -87,8 +87,10 @@ username = "AshikaGupta_01"
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
