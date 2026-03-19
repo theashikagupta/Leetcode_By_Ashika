@@ -82,11 +82,13 @@ username = "AshikaGupta_01"
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0307-range-sum-query-mutable](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0307-range-sum-query-mutable](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0724-find-pivot-index](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -97,4 +99,16 @@ username = "AshikaGupta_01"
 | [0724-find-pivot-index](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2574-left-and-right-sum-differences/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0307-range-sum-query-mutable/) | Medium |
 <!---LeetCode Topics End-->
