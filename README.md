@@ -70,6 +70,7 @@ username = "AshikaGupta_01"
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [2179-count-good-triplets-in-an-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -92,6 +93,7 @@ username = "AshikaGupta_01"
 | [0307-range-sum-query-mutable](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0724-find-pivot-index](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2179-count-good-triplets-in-an-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Prefix Sum
@@ -105,15 +107,18 @@ username = "AshikaGupta_01"
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [2179-count-good-triplets-in-an-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [2179-count-good-triplets-in-an-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [2179-count-good-triplets-in-an-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -127,4 +132,12 @@ username = "AshikaGupta_01"
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2179-count-good-triplets-in-an-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2179-count-good-triplets-in-an-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
 <!---LeetCode Topics End-->
