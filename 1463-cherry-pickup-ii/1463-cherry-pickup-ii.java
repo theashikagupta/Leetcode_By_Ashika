@@ -14,18 +14,18 @@ class Solution {
         int m = grid[0].length;
 
     
-        if (col1<0 || col1>=m || col2<0 || col2>=m)
+        if(col1<0 || col1>=m || col2<0 || col2>=m)
             return Integer.MIN_VALUE;
 
       
-        if (row==n - 1) {
+        if(row==n - 1) {
             if (col1 == col2)
                 return grid[row][col1];
             else
                 return grid[row][col1] + grid[row][col2];
         }
 
-        if (dp[row][col1][col2]!=null)
+        if(dp[row][col1][col2]!=null)
             return dp[row][col1][col2];
 
         int cherries;
