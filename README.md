@@ -50,6 +50,7 @@ username = "AshikaGupta_01"
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0576-out-of-boundary-paths](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0879-profitable-schemes](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0879-profitable-schemes/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1463-cherry-pickup-ii/) | Hard |
