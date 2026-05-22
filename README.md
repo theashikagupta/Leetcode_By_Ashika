@@ -93,6 +93,7 @@ username = "AshikaGupta_01"
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0001-two-sum/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0724-find-pivot-index](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0724-find-pivot-index/) | Easy |
@@ -151,4 +152,8 @@ username = "AshikaGupta_01"
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1463-cherry-pickup-ii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1463-cherry-pickup-ii/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
