@@ -162,10 +162,12 @@ username = "AshikaGupta_01"
 | ------- | ------- |
 | [0001-two-sum](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -180,5 +182,6 @@ username = "AshikaGupta_01"
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
