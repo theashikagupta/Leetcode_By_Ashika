@@ -100,6 +100,7 @@ username = "AshikaGupta_01"
 | [0307-range-sum-query-mutable](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0724-find-pivot-index](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0724-find-pivot-index/) | Easy |
 | [0879-profitable-schemes](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0879-profitable-schemes/) | Hard |
+| [0977-squares-of-a-sorted-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1473-paint-house-iii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1473-paint-house-iii/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -164,6 +165,7 @@ username = "AshikaGupta_01"
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0169-majority-element/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,4 +174,5 @@ username = "AshikaGupta_01"
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
