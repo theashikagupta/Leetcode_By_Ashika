@@ -16,9 +16,13 @@ var compress = function(chars) {
      i++;
      if(count>1){
         let countStr=count.toString();
-        for(let k=0; k<countStr.length; k++){
-          chars[i]=countStr[k];
-          i++;
+        // for(let k=0; k<countStr.length; k++){
+        //   chars[i]=countStr[k];
+        //   i++;
+        // }
+        for(let c of countStr){
+            chars[i]=c;
+            i++;
         }
      }
   
