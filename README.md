@@ -107,6 +107,7 @@ username = "AshikaGupta_01"
 | [0845-longest-mountain-in-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0879-profitable-schemes](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0879-profitable-schemes/) | Hard |
 | [0941-valid-mountain-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0941-valid-mountain-array/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1029-two-city-scheduling](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1029-two-city-scheduling/) | Medium |
 | [1383-maximum-performance-of-a-team](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1383-maximum-performance-of-a-team/) | Hard |
@@ -128,6 +129,7 @@ username = "AshikaGupta_01"
 | ------- | ------- |
 | [0169-majority-element](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0169-majority-element/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2179-count-good-triplets-in-an-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -149,6 +151,7 @@ username = "AshikaGupta_01"
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1383-maximum-performance-of-a-team](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1383-maximum-performance-of-a-team/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Monotonic Stack
@@ -179,6 +182,7 @@ username = "AshikaGupta_01"
 | ------- | ------- |
 | [0169-majority-element](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0242-valid-anagram/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1029-two-city-scheduling](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1029-two-city-scheduling/) | Medium |
 | [1383-maximum-performance-of-a-team](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1383-maximum-performance-of-a-team/) | Hard |
@@ -220,4 +224,16 @@ username = "AshikaGupta_01"
 | ------- | ------- |
 | [1029-two-city-scheduling](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1029-two-city-scheduling/) | Medium |
 | [1383-maximum-performance-of-a-team](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1383-maximum-performance-of-a-team/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
