@@ -50,6 +50,7 @@ username = "AshikaGupta_01"
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0042-trapping-rain-water/) | Hard |
 | [0576-out-of-boundary-paths](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0845-longest-mountain-in-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0845-longest-mountain-in-array/) | Medium |
@@ -97,6 +98,7 @@ username = "AshikaGupta_01"
 | [0001-two-sum](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0042-trapping-rain-water/) | Hard |
 | [0169-majority-element](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0169-majority-element/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0307-range-sum-query-mutable/) | Medium |
@@ -142,6 +144,7 @@ username = "AshikaGupta_01"
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0042-trapping-rain-water/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -151,6 +154,7 @@ username = "AshikaGupta_01"
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0042-trapping-rain-water/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -186,6 +190,7 @@ username = "AshikaGupta_01"
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0443-string-compression/) | Medium |
