@@ -105,6 +105,7 @@ username = "AshikaGupta_01"
 | [0845-longest-mountain-in-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0879-profitable-schemes](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0879-profitable-schemes/) | Hard |
 | [0977-squares-of-a-sorted-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1383-maximum-performance-of-a-team](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1383-maximum-performance-of-a-team/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1473-paint-house-iii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1473-paint-house-iii/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -143,6 +144,7 @@ username = "AshikaGupta_01"
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1383-maximum-performance-of-a-team](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1383-maximum-performance-of-a-team/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -172,6 +174,7 @@ username = "AshikaGupta_01"
 | [0169-majority-element](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1383-maximum-performance-of-a-team](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1383-maximum-performance-of-a-team/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,4 +205,8 @@ username = "AshikaGupta_01"
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0845-longest-mountain-in-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0845-longest-mountain-in-array/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1383-maximum-performance-of-a-team](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1383-maximum-performance-of-a-team/) | Hard |
 <!---LeetCode Topics End-->
