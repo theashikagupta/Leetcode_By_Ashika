@@ -15,8 +15,6 @@ var maxPerformance = function(n, speed, efficiency, k) {
     // 2. sort it w.r.t eff in desc order
     engineer.sort((a, b) => b.efficiency - a.efficiency);
 
-    // 3. FIX: Updated constructor for newer @datastructures-js/priority-queue versions
-    // For a Min-Heap of numbers, use a standard comparator function (a - b)
     const minHeap = new MinPriorityQueue({ compare: (a, b) => a - b });
     
     // Initialize tracked values
@@ -38,8 +36,6 @@ var maxPerformance = function(n, speed, efficiency, k) {
             continue;
         }
     
-        // In the new library version, minHeap.front() returns the raw element directly,
-        // rather than an object containing an `.element` property.
         if (engineer[i].speed > minHeap.front()) {
             const removedSpeed = BigInt(minHeap.dequeue());
             sum -= removedSpeed;
