@@ -4,7 +4,7 @@
  */
 var validMountainArray = function(arr) {
     if(arr.length<3) return false;
-    let n=arr.length;
+    const n=arr.length;
     let i=0;
     while(i+1<n && arr[i]<arr[i+1]){
         i++;
