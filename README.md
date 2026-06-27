@@ -256,6 +256,7 @@ username = "AshikaGupta_01"
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0595-big-countries](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0595-big-countries/) | Easy |
+| [0620-not-boring-movies](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0620-not-boring-movies/) | Easy |
 | [1148-article-views-i](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1148-article-views-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1729-find-followers-count/) | Easy |
