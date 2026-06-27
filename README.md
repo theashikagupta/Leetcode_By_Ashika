@@ -111,6 +111,7 @@ username = "AshikaGupta_01"
 | [0973-k-closest-points-to-origin](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1029-two-city-scheduling](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1029-two-city-scheduling/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1383-maximum-performance-of-a-team](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1383-maximum-performance-of-a-team/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1473-paint-house-iii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1473-paint-house-iii/) | Hard |
@@ -234,6 +235,7 @@ username = "AshikaGupta_01"
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
