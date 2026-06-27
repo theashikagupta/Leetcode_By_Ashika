@@ -182,6 +182,7 @@ username = "AshikaGupta_01"
 | [0169-majority-element](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0383-ransom-note](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0383-ransom-note/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +198,7 @@ username = "AshikaGupta_01"
 | ------- | ------- |
 | [0169-majority-element](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0383-ransom-note](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0383-ransom-note/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,6 +218,7 @@ username = "AshikaGupta_01"
 | [0125-valid-palindrome](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0344-reverse-string/) | Easy |
+| [0383-ransom-note](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0383-ransom-note/) | Easy |
 | [0443-string-compression](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0443-string-compression/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Trie
