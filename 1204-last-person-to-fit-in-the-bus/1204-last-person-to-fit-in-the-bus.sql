@@ -1,13 +1,19 @@
 # Write your MySQL query statement below
 
-SELECT person_name
-FROM (SELECT 
-    turn, 
-    person_id, 
-    person_name, 
-    weight, 
-    SUM(weight) OVER (ORDER BY turn) AS TotalWeight
-FROM Queue) AS csum
-WHERE TotalWeight<=1000
-ORDER BY TotalWeight DESC
+SELECT Name AS person_name
+FROM (
+     SELECT turn 
+AS Turn,
+person_id AS ID,
+person_name AS Name,
+weight AS Weight,
+SUM(weight) OVER (ORDER BY turn) AS Total_Weight
+FROM Queue
+
+) AS temp
+WHERE (Total_Weight<=1000)
+ORDER BY turn DESC
 LIMIT 1;
+
+
+
