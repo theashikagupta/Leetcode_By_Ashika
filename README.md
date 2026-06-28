@@ -180,6 +180,7 @@ username = "AshikaGupta_01"
 | ------- | ------- |
 | [0001-two-sum](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0383-ransom-note/) | Easy |
@@ -216,6 +217,7 @@ username = "AshikaGupta_01"
 | [0014-longest-common-prefix](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0125-valid-palindrome/) | Easy |
+| [0205-isomorphic-strings](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0383-ransom-note/) | Easy |
