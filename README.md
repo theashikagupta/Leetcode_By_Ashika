@@ -261,5 +261,6 @@ username = "AshikaGupta_01"
 | [1204-last-person-to-fit-in-the-bus](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1683-invalid-tweets](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1729-find-followers-count/) | Easy |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
