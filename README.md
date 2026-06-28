@@ -258,6 +258,7 @@ username = "AshikaGupta_01"
 | [0595-big-countries](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0620-not-boring-movies](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0620-not-boring-movies/) | Easy |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1148-article-views-i](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1148-article-views-i/) | Easy |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1683-invalid-tweets](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1683-invalid-tweets/) | Easy |
