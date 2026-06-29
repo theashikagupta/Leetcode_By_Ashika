@@ -257,6 +257,7 @@ username = "AshikaGupta_01"
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0595-big-countries](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0620-not-boring-movies](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0620-not-boring-movies/) | Easy |
