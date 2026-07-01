@@ -2,41 +2,42 @@ class Solution {
     public String shortestCommonSupersequence(String str1, String str2) {
         int m=str1.length();
         int n=str2.length();
-        int[][] t=new int[1001][1001];
+        int[][] t=new int[m+1][n+1];
 
-        for(int i=0;i<=m;i++){
-            for(int j=0;j<=n;j++){
-                if(i==0 || j==0){
-                    t[i][j]=i+j;
-                }
-                else if(str1.charAt(i-1)==str2.charAt(j-1)){
-                    t[i][j]=1+t[i-1][j-1];
-                }else{
-                    t[i][j]=1+Math.min(t[i][j-1],t[i-1][j]);
+        // Step 1: Build LCS table
+        for (int i = 1; i <= m; i++) {
+            for (int j = 1; j <= n; j++) {
+                if (str1.charAt(i - 1) == str2.charAt(j - 1)) {
+                    t[i][j] = 1 + t[i - 1][j - 1];
+                } else {
+                    t[i][j] = Math.max(t[i - 1][j], t[i][j - 1]);
                 }
             }
         }
-
+        
         StringBuilder sb=new StringBuilder();
-        int i=m ,j=n;
+        int i=m; 
+        int j=n;
         while(i>0 && j>0){
-           if(str1.charAt(i-1)==str2.charAt(j-1)){
-             sb.append(str1.charAt(i-1));
-             i--; j--;
-           }else if(t[i-1][j]<t[i][j-1]){
-             sb.append(str1.charAt(i-1));
-             i--;
-           }else{
-             sb.append(str2.charAt(j-1));
-             j--;
-           }
+            if(str1.charAt(i-1)==str2.charAt(j-1)){
+                sb.append(str1.charAt(i-1));
+                i--; j--;
+            }
+            else if(t[i-1][j]>t[i][j-1]){
+                sb.append(str1.charAt(i-1));
+                i--;
+            }else{
+                sb.append(str2.charAt(j-1));
+                j--;
+            }
         }
-        while(i>0){
-            sb.append(str1.charAt(i-1));
+        while (i > 0) {
+            sb.append(str1.charAt(i - 1));
             i--;
         }
-        while(j>0){
-            sb.append(str2.charAt(j-1));
+
+        while (j > 0) {
+            sb.append(str2.charAt(j - 1));
             j--;
         }
         return sb.reverse().toString();
