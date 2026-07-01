@@ -53,6 +53,7 @@ username = "AshikaGupta_01"
 | [0042-trapping-rain-water](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0042-trapping-rain-water/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0576-out-of-boundary-paths/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0845-longest-mountain-in-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0879-profitable-schemes](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0879-profitable-schemes/) | Hard |
@@ -226,6 +227,7 @@ username = "AshikaGupta_01"
 | [0383-ransom-note](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0383-ransom-note/) | Easy |
 | [0443-string-compression](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0443-string-compression/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1768-merge-strings-alternately/) | Easy |
