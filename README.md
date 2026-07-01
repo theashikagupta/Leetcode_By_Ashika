@@ -55,6 +55,7 @@ username = "AshikaGupta_01"
 | [0834-sum-of-distances-in-tree](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0845-longest-mountain-in-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0879-profitable-schemes](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0879-profitable-schemes/) | Hard |
+| [1143-longest-common-subsequence](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1473-paint-house-iii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1473-paint-house-iii/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
@@ -222,6 +223,7 @@ username = "AshikaGupta_01"
 | [0344-reverse-string](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0383-ransom-note/) | Easy |
 | [0443-string-compression](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0443-string-compression/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
