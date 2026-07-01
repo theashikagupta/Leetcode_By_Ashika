@@ -4,7 +4,7 @@ class Solution {
         int n=str2.length();
         int[][] t=new int[m+1][n+1];
 
-        // Step 1: Build LCS table
+     
         for (int i = 1; i <= m; i++) {
             for (int j = 1; j <= n; j++) {
                 if (str1.charAt(i - 1) == str2.charAt(j - 1)) {
