@@ -1,51 +1,34 @@
 class Solution {
     public int maxEnvelopes(int[][] envelopes) {
-
-        // 1️⃣ Sort envelopes
+       int n=envelopes.length;
         Arrays.sort(envelopes, (a, b) -> {
-            if (a[0] != b[0]) return a[0] - b[0];   // width ↑
-            return b[1] - a[1];                    // height ↓ (important)
+            if (a[0] == b[0]) {
+                return b[1] - a[1];
+            }
+            return a[0] - b[0];
         });
+        ArrayList<Integer> tails=new ArrayList<>();
+        for(int[] envelop:envelopes) {
+            int x=envelop[1];
+            int idx=lowerBound(tails,x);
 
-        int n = envelopes.length;
-        int[] heights = new int[n];
-
-        // 2️⃣ Store heights
-        for (int i = 0; i < n; i++) {
-            heights[i] = envelopes[i][1];
-        }
-
-        // 3️⃣ Apply LIS on heights
-        return lis(heights);
-    }
-
-    // LIS using binary search (O(n log n))
-    public int lis(int[] nums) {
-        ArrayList<Integer> temp = new ArrayList<>();
-
-        for (int num : nums) {
-            if (temp.isEmpty() || num > temp.get(temp.size() - 1)) {
-                temp.add(num);
-            } else {
-                int idx = lowerBound(temp, num);
-                temp.set(idx, num);
+            if(tails.size()==idx){
+                tails.add(x);
+            }else{
+                tails.set(idx,x);
             }
         }
-        return temp.size();
+        return tails.size();
     }
-
-    // lower bound
-    public int lowerBound(ArrayList<Integer> temp, int target) {
-        int low = 0, high = temp.size() - 1;
-
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-            if (temp.get(mid) >= target) {
-                high = mid - 1;
-            } else {
-                low = mid + 1;
-            }
-        }
+    public int lowerBound(ArrayList<Integer> arr, int target){
+        int low=0; int high=arr.size();
+        while(low<high){
+            int mid=(low+high)/2;
+            if(arr.get(mid)>=target) 
+                high=mid;
+            else 
+                low=mid+1;
+        }  
         return low;
     }
 }
