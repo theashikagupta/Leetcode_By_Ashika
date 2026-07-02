@@ -52,6 +52,7 @@ username = "AshikaGupta_01"
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0042-trapping-rain-water/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0368-largest-divisible-subset](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0583-delete-operation-for-two-strings/) | Medium |
@@ -110,6 +111,7 @@ username = "AshikaGupta_01"
 | [0303-range-sum-query-immutable](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0368-largest-divisible-subset](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0724-find-pivot-index](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0724-find-pivot-index/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0845-longest-mountain-in-array/) | Medium |
@@ -197,6 +199,7 @@ username = "AshikaGupta_01"
 | [0169-majority-element](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0368-largest-divisible-subset](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1029-two-city-scheduling](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1029-two-city-scheduling/) | Medium |
@@ -250,6 +253,7 @@ username = "AshikaGupta_01"
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0368-largest-divisible-subset](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Geometry
