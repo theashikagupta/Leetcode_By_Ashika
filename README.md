@@ -121,6 +121,7 @@ username = "AshikaGupta_01"
 | [0673-number-of-longest-increasing-subsequence](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0724-find-pivot-index](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0724-find-pivot-index/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [0860-lemonade-change](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0860-lemonade-change/) | Easy |
 | [0879-profitable-schemes](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0879-profitable-schemes/) | Hard |
 | [0941-valid-mountain-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0941-valid-mountain-array/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -260,6 +261,7 @@ username = "AshikaGupta_01"
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0860-lemonade-change/) | Easy |
 | [1029-two-city-scheduling](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1029-two-city-scheduling/) | Medium |
 | [1383-maximum-performance-of-a-team](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1383-maximum-performance-of-a-team/) | Hard |
 ## Math
