@@ -3,21 +3,19 @@ class Solution {
     public int jump(int[] nums) {
         int n=nums.length;
         dp=new int[n];
-        Arrays.fill(dp,-1);
-        return solve(nums,n,0);
-    }
-    public int solve(int[] nums,int n, int idx ){
-        if(idx>=n-1) return 0;
-        int ans=Integer.MAX_VALUE;
-        if(dp[idx]!=-1) return dp[idx];
-        for(int i=idx+1; i<=idx+nums[idx] && i<n ; i++){
-            if(solve(nums,n,i)!=Integer.MAX_VALUE){
-               ans=Math.min(ans,1+solve(nums,n,i));
-            }
-           
-           
+        for(int i=0; i<n-1; i++){
+            dp[i]=Integer.MAX_VALUE;
         }
+        dp[n-1]=0;
         
-        return dp[idx]=ans;
+        for(int i=n-2; i>=0; i--){
+            for(int j=1 ; j<=nums[i]&& i+j<n; j++){
+               if(dp[i+j]!=Integer.MAX_VALUE){
+                dp[i]=Math.min(1+dp[i+j],dp[i]);
+               }
+            }
+            
+        }
+        return dp[0];
     }
 }
