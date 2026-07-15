@@ -52,6 +52,7 @@ username = "AshikaGupta_01"
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0055-jump-game/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0368-largest-divisible-subset/) | Medium |
@@ -111,6 +112,7 @@ username = "AshikaGupta_01"
 | [0026-remove-duplicates-from-sorted-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0134-gas-station/) | Medium |
 | [0169-majority-element](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0169-majority-element/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -264,6 +266,7 @@ username = "AshikaGupta_01"
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0134-gas-station/) | Medium |
 | [0455-assign-cookies](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0860-lemonade-change/) | Easy |
