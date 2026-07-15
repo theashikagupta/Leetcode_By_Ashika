@@ -88,6 +88,7 @@ username = "AshikaGupta_01"
 | [0033-search-in-rotated-sorted-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0354-russian-doll-envelopes/) | Hard |
+| [0875-koko-eating-bananas](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2179-count-good-triplets-in-an-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
@@ -130,6 +131,7 @@ username = "AshikaGupta_01"
 | [0724-find-pivot-index](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0724-find-pivot-index/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0860-lemonade-change](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0860-lemonade-change/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0879-profitable-schemes](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0879-profitable-schemes/) | Hard |
 | [0941-valid-mountain-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0941-valid-mountain-array/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0973-k-closest-points-to-origin/) | Medium |
