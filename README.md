@@ -114,6 +114,7 @@ username = "AshikaGupta_01"
 | [0045-jump-game-ii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0135-candy/) | Hard |
 | [0169-majority-element](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0169-majority-element/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -268,6 +269,7 @@ username = "AshikaGupta_01"
 | [0045-jump-game-ii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0135-candy/) | Hard |
 | [0455-assign-cookies](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0860-lemonade-change/) | Easy |
 | [1029-two-city-scheduling](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1029-two-city-scheduling/) | Medium |
