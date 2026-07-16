@@ -16,9 +16,7 @@ class Solution {
                 low=mid+1;
             }
         }
-        return high;
-
-        
+        return low;  
     }
 
     public boolean possible(int[] nums, int mid, int k){
