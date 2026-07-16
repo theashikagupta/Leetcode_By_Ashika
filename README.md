@@ -56,6 +56,7 @@ username = "AshikaGupta_01"
 | [0300-longest-increasing-subsequence](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0583-delete-operation-for-two-strings/) | Medium |
@@ -89,6 +90,7 @@ username = "AshikaGupta_01"
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0354-russian-doll-envelopes/) | Hard |
+| [0410-split-array-largest-sum](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2179-count-good-triplets-in-an-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
@@ -128,6 +130,7 @@ username = "AshikaGupta_01"
 | [0347-top-k-frequent-elements](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
@@ -153,6 +156,7 @@ username = "AshikaGupta_01"
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0724-find-pivot-index](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -278,6 +282,7 @@ username = "AshikaGupta_01"
 | [0055-jump-game](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0135-candy/) | Hard |
+| [0410-split-array-largest-sum](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0860-lemonade-change/) | Easy |
 | [1029-two-city-scheduling](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1029-two-city-scheduling/) | Medium |
