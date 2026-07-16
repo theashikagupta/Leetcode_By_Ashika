@@ -14,7 +14,7 @@ class Solution {
             }
 
         }
-        return nums[ei];
+        return nums[si];
     }
 }
 
