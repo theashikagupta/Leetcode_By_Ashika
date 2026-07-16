@@ -92,6 +92,7 @@ username = "AshikaGupta_01"
 | [0875-koko-eating-bananas](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2179-count-good-triplets-in-an-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
+| [2187-minimum-time-to-complete-trips](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -145,6 +146,7 @@ username = "AshikaGupta_01"
 | [1473-paint-house-iii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1473-paint-house-iii/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2179-count-good-triplets-in-an-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
+| [2187-minimum-time-to-complete-trips](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Prefix Sum
