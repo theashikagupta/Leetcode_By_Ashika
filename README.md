@@ -86,6 +86,7 @@ username = "AshikaGupta_01"
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -118,6 +119,7 @@ username = "AshikaGupta_01"
 | [0055-jump-game](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0135-candy/) | Hard |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0169-majority-element/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0303-range-sum-query-immutable/) | Easy |
