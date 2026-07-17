@@ -77,6 +77,7 @@ username = "AshikaGupta_01"
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0463-island-perimeter/) | Easy |
 | [0834-sum-of-distances-in-tree](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
@@ -104,6 +105,7 @@ username = "AshikaGupta_01"
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0463-island-perimeter/) | Easy |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Design
@@ -126,6 +128,7 @@ username = "AshikaGupta_01"
 | [0135-candy](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0135-candy/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0169-majority-element/) | Easy |
+| [0200-number-of-islands](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0200-number-of-islands/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0307-range-sum-query-mutable/) | Medium |
@@ -213,6 +216,7 @@ username = "AshikaGupta_01"
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0463-island-perimeter/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1463-cherry-pickup-ii/) | Hard |
 ## Hash Table
@@ -326,4 +330,8 @@ username = "AshikaGupta_01"
 | [1729-find-followers-count](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1729-find-followers-count/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
