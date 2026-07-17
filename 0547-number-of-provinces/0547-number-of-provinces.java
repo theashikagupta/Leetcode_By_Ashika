@@ -13,7 +13,7 @@ class Solution {
 
         // union if connected
         for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {  // only upper triangle needed
+            for (int j = 0; j < n; j++) {  // only upper triangle needed
                 if (isConnected[i][j] == 1) {
                     union(i, j);
                 }
