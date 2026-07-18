@@ -1,58 +1,60 @@
 class Solution {
-    static int rowL, colL ;
-    int maxTime=0;
-    static int [] dr={-1,1,0,0};
-    static int [] dc={0,0,-1,1};
-    static class Pair{
+    private int[] dr={-1,1,0,0};
+    private int[] dc={0,0,1,-1};
+    boolean[][] vis;
+    Queue<Pair> q;
+    public class Pair{
         int r;
         int c;
-        int t;
-        public Pair(int r, int c , int t){
-                this.r=r;
-                this.c=c;
-                this.t=t;
+        Pair(int r, int c){
+            this.r=r;
+            this.c=c; 
         }
     }
     public int orangesRotting(int[][] grid) {
-        rowL=grid.length;
-        colL=grid[0].length;
-        int fresh=0;
-        // boolean[][] vis=new boolean [rLen][cLen];
+        int n=grid.length;
+        int m=grid[0].length;
+        int fresh=0; 
+        q=new LinkedList<>();
+        vis=new boolean[n][m];
+        for(int i=0; i<n ; i++){
+            for(int j=0; j<m; j++){
+                if(grid[i][j]==1){
+                   fresh++;
+                }
+                else if(grid[i][j]==2){
+                   q.offer(new Pair(i,j));   
+                   vis[i][j]=true; 
+                }  
+            }
+        }
+
+        int time=0;
         
-        Queue<Pair> q=new LinkedList<>();
-
-        for(int i=0;i<rowL;i++){
-            for(int j=0;j<colL;j++){
-                if(grid[i][j]==2){
-                    q.offer(new Pair(i,j,0));
-                }
-                else if(grid[i][j]==1){
-                    fresh++;
-                }
-            }
-        }
-     
-
+        
         while(!q.isEmpty()){
-            Pair curr=q.poll();
-            int row=curr.r;
-            int col=curr.c;
-            int time=curr.t;
-
-            maxTime=Math.max(maxTime, time);
-
-            for(int i=0;i<4;i++){
-                int nRow=row+dr[i];
-                int nCol=col+dc[i];
-
-                if(nRow>=0 && nCol>=0 && nRow<rowL && nCol<colL && grid[nRow][nCol]==1){
-                    grid[nRow][nCol]=2;
-                    fresh--;
-                    q.offer(new Pair(nRow,nCol,time+1));
+            int size=q.size();
+            boolean flag=false;
+            for(int j=0; j<size; j++){
+                Pair node=q.poll();
+                int R=node.r;
+                int C=node.c;
+            
+                for(int i=0; i<4; i++){
+                   int newR=R+dr[i];
+                   int newC=C+dc[i];
+                   if(newR>=0 && newR<n && newC>=0 && newC<m && !vis[newR][newC] && grid[newR][newC]==1){
+                      q.offer(new Pair(newR,newC));
+                      vis[newR][newC]=true;
+                      fresh--;
+                      flag=true;
+                    }
+                
                 }
             }
+            if(flag) time++;
+            
         }
-        return (fresh==0)? maxTime:-1;
-
+        return (fresh==0)? time : -1;
     }
 }
