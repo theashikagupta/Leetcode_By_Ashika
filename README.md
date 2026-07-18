@@ -148,6 +148,7 @@ username = "AshikaGupta_01"
 | [0455-assign-cookies](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0630-course-schedule-iii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0630-course-schedule-iii/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0724-find-pivot-index](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0724-find-pivot-index/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0845-longest-mountain-in-array/) | Medium |
@@ -206,6 +207,7 @@ username = "AshikaGupta_01"
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0630-course-schedule-iii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0630-course-schedule-iii/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1383-maximum-performance-of-a-team](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1383-maximum-performance-of-a-team/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
@@ -246,6 +248,7 @@ username = "AshikaGupta_01"
 | [0354-russian-doll-envelopes](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0455-assign-cookies](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0455-assign-cookies/) | Easy |
+| [0630-course-schedule-iii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0630-course-schedule-iii/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1029-two-city-scheduling](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1029-two-city-scheduling/) | Medium |
@@ -301,6 +304,7 @@ username = "AshikaGupta_01"
 | [0135-candy](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0135-candy/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0455-assign-cookies/) | Easy |
+| [0630-course-schedule-iii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0630-course-schedule-iii/) | Hard |
 | [0860-lemonade-change](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0860-lemonade-change/) | Easy |
 | [1029-two-city-scheduling](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1029-two-city-scheduling/) | Medium |
 | [1383-maximum-performance-of-a-team](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1383-maximum-performance-of-a-team/) | Hard |
