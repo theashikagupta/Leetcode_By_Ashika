@@ -78,6 +78,7 @@ username = "AshikaGupta_01"
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0207-course-schedule/) | Medium |
 | [0463-island-perimeter](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0547-number-of-provinces/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0834-sum-of-distances-in-tree/) | Hard |
@@ -85,6 +86,7 @@ username = "AshikaGupta_01"
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0547-number-of-provinces/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 ## Binary Search
@@ -108,6 +110,7 @@ username = "AshikaGupta_01"
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0207-course-schedule/) | Medium |
 | [0463-island-perimeter](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0547-number-of-provinces/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
@@ -338,4 +341,8 @@ username = "AshikaGupta_01"
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0547-number-of-provinces/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
