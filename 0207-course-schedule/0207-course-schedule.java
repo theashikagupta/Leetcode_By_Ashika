@@ -1,51 +1,36 @@
 class Solution {
-    public boolean canFinish(int numCourses, int[][] prerequisites) {
-
-        int V=numCourses;
-        int edges=prerequisites.length;
-
-        ArrayList<ArrayList<Integer>> adjList=new ArrayList<>();
-        for(int i=0;i<V;i++){
-            adjList.add(new ArrayList<>());
-        }
-
-        for(int i=0;i<edges;i++){
-            int u=edges[i][0];
-            int v=edges[i][1];
-            adjList.get(v).add(u);
-           
-        }
+    public boolean canFinish(int V, int[][] grid) {
+        ArrayList<ArrayList<Integer>> adj=new ArrayList<>();
+        int m=grid.length;
         
+        for(int i=0; i<V; i++){
+            adj.add(new ArrayList<>());
+        }
         int[] indegree=new int[V];
-        for(int i=0; i<edges.length; i++){
-            int u=edges[i][0];
-            indegree[u]++;   
+        for(int i=0; i<m; i++){
+            int u=grid[i][0];
+            int v=grid[i][1];
+            adj.get(u).add(v);
+            indegree[v]++;
         }
-
-        ArrayList<Integer> ans=new ArrayList<>();
-        Queue<Integer> q=new LinkedList<>();
-        
-        for(int i=0; i<indegree.length; i++){
+        Queue<Integer> queue=new LinkedList<>();
+        for(int i=0; i<V; i++){
             if(indegree[i]==0){
-                q.offer(i);
-                
+                queue.offer(i);
             }
         }
-        
-        while(!q.isEmpty()){
-            int curr=q.poll();
-            ans.add(curr);
-            for(int nei : adjList.get(curr)){
+        ArrayList<Integer> topo=new ArrayList<>();
+        while(!queue.isEmpty()){
+            int curr=queue.poll();
+            topo.add(curr);
+            for(int nei: adj.get(curr)){
                 indegree[nei]--;
                 if(indegree[nei]==0){
-                    q.offer(nei);
-                }
+                    queue.offer(nei);
                    
-            }
+                }
+            }                    
         }
-        
-        return (V==ans.size());
-
-        
-    }
+        return (topo.size()==V);
+    } 
 }
