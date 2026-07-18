@@ -77,6 +77,7 @@ username = "AshikaGupta_01"
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0210-course-schedule-ii/) | Medium |
@@ -87,6 +88,7 @@ username = "AshikaGupta_01"
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0547-number-of-provinces/) | Medium |
@@ -111,6 +113,7 @@ username = "AshikaGupta_01"
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0210-course-schedule-ii/) | Medium |
@@ -234,6 +237,7 @@ username = "AshikaGupta_01"
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0001-two-sum/) | Easy |
+| [0133-clone-graph](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0133-clone-graph/) | Medium |
 | [0169-majority-element](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0242-valid-anagram/) | Easy |
