@@ -84,6 +84,7 @@ username = "AshikaGupta_01"
 | [0210-course-schedule-ii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0210-course-schedule-ii/) | Medium |
 | [0463-island-perimeter](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0547-number-of-provinces/) | Medium |
+| [0743-network-delay-time](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0743-network-delay-time/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Graph Theory
@@ -93,6 +94,7 @@ username = "AshikaGupta_01"
 | [0207-course-schedule](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0547-number-of-provinces/) | Medium |
+| [0743-network-delay-time](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0743-network-delay-time/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -121,6 +123,7 @@ username = "AshikaGupta_01"
 | [0463-island-perimeter](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0547-number-of-provinces/) | Medium |
+| [0743-network-delay-time](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0743-network-delay-time/) | Medium |
 | [0994-rotting-oranges](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
@@ -218,6 +221,7 @@ username = "AshikaGupta_01"
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0630-course-schedule-iii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0630-course-schedule-iii/) | Hard |
+| [0743-network-delay-time](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0743-network-delay-time/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1383-maximum-performance-of-a-team](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1383-maximum-performance-of-a-team/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
@@ -367,4 +371,8 @@ username = "AshikaGupta_01"
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0210-course-schedule-ii/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
