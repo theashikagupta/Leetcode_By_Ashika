@@ -58,6 +58,7 @@ username = "AshikaGupta_01"
 | [0368-largest-divisible-subset](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0542-01-matrix](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0542-01-matrix/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
@@ -118,6 +119,7 @@ username = "AshikaGupta_01"
 | [0207-course-schedule](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0210-course-schedule-ii/) | Medium |
 | [0463-island-perimeter](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0463-island-perimeter/) | Easy |
+| [0542-01-matrix](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0547-number-of-provinces/) | Medium |
 | [0994-rotting-oranges](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0994-rotting-oranges/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
@@ -152,6 +154,7 @@ username = "AshikaGupta_01"
 | [0455-assign-cookies](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0542-01-matrix](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0542-01-matrix/) | Medium |
 | [0630-course-schedule-iii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0630-course-schedule-iii/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0724-find-pivot-index](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0724-find-pivot-index/) | Easy |
@@ -234,6 +237,7 @@ username = "AshikaGupta_01"
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0463-island-perimeter/) | Easy |
+| [0542-01-matrix](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0994-rotting-oranges/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1463-cherry-pickup-ii/) | Hard |
 ## Hash Table
