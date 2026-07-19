@@ -122,6 +122,7 @@ username = "AshikaGupta_01"
 | [0542-01-matrix](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0547-number-of-provinces/) | Medium |
 | [0994-rotting-oranges](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0994-rotting-oranges/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Design
 | Problem Name | Difficulty |
@@ -167,6 +168,7 @@ username = "AshikaGupta_01"
 | [0977-squares-of-a-sorted-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0994-rotting-oranges/) | Medium |
 | [1029-two-city-scheduling](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1029-two-city-scheduling/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1383-maximum-performance-of-a-team](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1383-maximum-performance-of-a-team/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -239,6 +241,7 @@ username = "AshikaGupta_01"
 | [0463-island-perimeter](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0994-rotting-oranges/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1463-cherry-pickup-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
