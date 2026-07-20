@@ -87,6 +87,7 @@ username = "AshikaGupta_01"
 | [0743-network-delay-time](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0743-network-delay-time/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +107,7 @@ username = "AshikaGupta_01"
 | [0410-split-array-largest-sum](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2179-count-good-triplets-in-an-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
 | [2187-minimum-time-to-complete-trips](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
@@ -127,6 +129,7 @@ username = "AshikaGupta_01"
 | [0994-rotting-oranges](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +180,7 @@ username = "AshikaGupta_01"
 | [1463-cherry-pickup-ii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1473-paint-house-iii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1473-paint-house-iii/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2179-count-good-triplets-in-an-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
 | [2187-minimum-time-to-complete-trips](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -224,6 +228,7 @@ username = "AshikaGupta_01"
 | [0743-network-delay-time](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0743-network-delay-time/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1383-maximum-performance-of-a-team](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1383-maximum-performance-of-a-team/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -247,6 +252,7 @@ username = "AshikaGupta_01"
 | [0994-rotting-oranges](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -366,6 +372,7 @@ username = "AshikaGupta_01"
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/0547-number-of-provinces/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
