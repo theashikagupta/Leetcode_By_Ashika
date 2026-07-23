@@ -113,6 +113,7 @@ username = "AshikaGupta_01"
 | [1631-path-with-minimum-effort](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2179-count-good-triplets-in-an-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
 | [2187-minimum-time-to-complete-trips](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
+| [2258-escape-the-spreading-fire](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2258-escape-the-spreading-fire/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -134,6 +135,7 @@ username = "AshikaGupta_01"
 | [1091-shortest-path-in-binary-matrix](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2258-escape-the-spreading-fire](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2258-escape-the-spreading-fire/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,6 +190,7 @@ username = "AshikaGupta_01"
 | [1631-path-with-minimum-effort](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2179-count-good-triplets-in-an-array](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
 | [2187-minimum-time-to-complete-trips](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
+| [2258-escape-the-spreading-fire](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2258-escape-the-spreading-fire/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Prefix Sum
@@ -259,6 +262,7 @@ username = "AshikaGupta_01"
 | [1091-shortest-path-in-binary-matrix](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2258-escape-the-spreading-fire](https://github.com/theashikagupta/Leetcode_By_Ashika/tree/main/2258-escape-the-spreading-fire/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
